@@ -2,8 +2,6 @@
 
 # 🛒 Ecommerce Sales Dashboard
 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
 ## 📖 Project Overview
 
@@ -15,7 +13,7 @@ The report allows stakeholders to make data-driven decisions regarding inventory
 
 ## 📸 Dashboard Preview
 
-![Ecommerce Sales Dashboard](dashboard_screenshot.png)
+
 *(Note: This dashboard is interactive. Download the `.pbix` file to explore.)*
 
 ---
